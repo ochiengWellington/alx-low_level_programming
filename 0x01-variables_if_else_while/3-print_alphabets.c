@@ -10,6 +10,7 @@ int main(void)
 {
 	int l;
 	int a;
+
 	for (l = 'A'; l <= 'Z'; l++)
 	{
 		a = tolower(l);
